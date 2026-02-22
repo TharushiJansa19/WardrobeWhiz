@@ -1,0 +1,25 @@
+
+# python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# ML heavy
+modals/Segmented/
+modals/vdb/
+modals/Wardrobe/
+*.pt
+*.pth
+*.h5
+*.onnx
+*.pkl
+
+# logs
+*.log
